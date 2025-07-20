@@ -1,0 +1,1 @@
+// Aquí irá el contenido real de HomePage.js copiado desde el textdoc
